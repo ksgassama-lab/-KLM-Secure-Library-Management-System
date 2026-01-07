@@ -37,7 +37,7 @@ The "brain" of this app is built using **Appian process models**. I designed the
 ---
 
 
-## 5. Security-First Architecture
+## 4. Security-First Architecture
 Drawing on my **Cybersecurity degree**, I built this application with a "Secure by Design" mindset:
 
 * **Access Control (RBAC):** I implemented **Role-Based Access Control** using Appian Groups. For example, `KLM_GROUP_SUPERVISOR` ensures that only authorized managers can approve high-level requests.
