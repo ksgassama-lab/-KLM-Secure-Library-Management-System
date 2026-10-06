@@ -2,7 +2,7 @@
 # 📚 KLM: Enterprise Library Management System
 
 **Developer:** Kaddy Gassama  
-**Education:** B.S. Cybersecurity & Information Assurance  
+**Education:** M.S. Cybersecurity & Information Assurance  
 **Credentials:** Appian Associate Developer Certificate | CompTIA Security+, PenTest+, Network+, Project+
 
 ---
